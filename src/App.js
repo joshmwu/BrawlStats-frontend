@@ -2,7 +2,7 @@ import React from 'react';
 import Player from './Player';
 
 const App = () => {
-    const playerTag = '#PCGRRYQQ'; // Example player tag
+    const playerTag = "#PCGRRYQQ"; // Example player tag
 
     return (
         <div className="App">
