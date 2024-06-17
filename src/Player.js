@@ -37,7 +37,6 @@ const Player = ({ playerTag }) => {
       <h1>Player: {player.name}</h1>
       <h1>Tag: {player.tag}</h1>
       <h1>Trophies: {player.trophies}</h1>
-      <h1>Battle log victory count: {battleLog.victoryCount}</h1>
     </div>
   );
 };
